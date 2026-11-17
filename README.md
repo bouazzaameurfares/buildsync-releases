@@ -15,8 +15,8 @@ a private repository; nothing is developed here.
 
 | Platform | File | Requirements |
 |---|---|---|
-| Windows | [`BuildSync-Setup.exe`](../../releases/latest/download/BuildSync-Setup.exe) | Windows 10 or 11, 64-bit |
-| Android | `BuildSync.apk` — published with the 0.3.0 release | Android 7.0 or newer |
+| Windows | [`BuildSync-Setup.exe`](../../releases/latest/download/BuildSync-Setup.exe) (197 MB) | Windows 10 or 11, 64-bit |
+| Android | [`BuildSync.apk`](../../releases/latest/download/BuildSync.apk) (136 MB) | Android 7.0 or newer |
 
 BuildSync is a **sideload-only** product: it is not published on Google Play or
 the Apple App Store. There is no store listing and no account needed to install.
