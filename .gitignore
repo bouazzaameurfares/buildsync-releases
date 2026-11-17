@@ -1,0 +1,12 @@
+# Release binaries are attached to GitHub Releases, never committed.
+*.exe
+*.apk
+*.aab
+*.dmg
+*.msi
+*.zip
+*.blockmap
+
+# OS noise
+.DS_Store
+Thumbs.db

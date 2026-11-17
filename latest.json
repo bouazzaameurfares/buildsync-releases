@@ -1,0 +1,12 @@
+{
+  "version": "0.3.0",
+  "channel": "public beta",
+  "releasedAt": "2026-11-17T14:30:00.000Z",
+  "exe": {
+    "file": "BuildSync-Setup.exe",
+    "url": "https://github.com/bouazzaameurfares/buildsync-releases/releases/latest/download/BuildSync-Setup.exe",
+    "size": 206570498,
+    "sha256": "b1b76c1ee80bcfe7952d881eb58629275c795056f07c4cba998a49df289d9e8a"
+  },
+  "apk": null
+}
