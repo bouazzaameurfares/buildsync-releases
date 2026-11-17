@@ -8,5 +8,10 @@
     "size": 206570498,
     "sha256": "b1b76c1ee80bcfe7952d881eb58629275c795056f07c4cba998a49df289d9e8a"
   },
-  "apk": null
+  "apk": {
+    "file": "BuildSync.apk",
+    "url": "https://github.com/bouazzaameurfares/buildsync-releases/releases/latest/download/BuildSync.apk",
+    "size": 142802415,
+    "sha256": "c89ffa6fae9689dd21311fcdb474c98255ade62b3fb4e7c7dfbb468d0f902748"
+  }
 }
